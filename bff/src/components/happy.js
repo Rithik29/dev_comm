@@ -9,11 +9,11 @@ import bg3 from "../assests/bgiamge3-removebg-preview.png";
 
 const Happy =() => {
     return (
-        <div className="main">
+        <div className="mainh">
          {/* <Navbar/>  */}
-        <div className="part1">
-           <div className="iimg"> <img src={bg1} /></div>
-            <div className="textb">
+        <div className="part1h">
+           <div className="iimgh"> <img src={bg1} /></div>
+            <div className="textbh">
                 
                   <p>
                   <h3 >SELF CARE</h3>
@@ -30,9 +30,9 @@ const Happy =() => {
                  </p>
             </div>
         </div>
-        <div className="part2">
-        <div className="iimg"> <img src={bg2} /></div>
-            <div className="textb2">
+        <div className="part2h">
+        <div className="iimgh"> <img src={bg2} /></div>
+            <div className="textb2h">
             <p>
             <h3 >SELF CARE</h3>
             <br/>
@@ -49,9 +49,9 @@ const Happy =() => {
                 </p>
             </div>
         </div>
-        <div className="part3">
-        <div className="iimg"> <img src={bg3} /></div>
-            <div className="textb">
+        <div className="part3h">
+        <div className="iimgh"> <img src={bg3} /></div>
+            <div className="textbh">
                <p>
                <h3 >SELF CARE</h3>
                <br/>
