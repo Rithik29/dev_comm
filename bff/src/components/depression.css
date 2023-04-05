@@ -5,20 +5,20 @@
 }
    
 
-.page{
+.paged{
     position: relative;
     padding-bottom: 40px;
 
 
 background: #FFFFFF;
 }
-.helpline{
+.helplined{
     position: absolute;
     width: 100%;
     
     
 }
-.info{
+.infod{
     margin: 0;
 
 }
@@ -51,7 +51,7 @@ font-size: 20px;
 line-height: 60px;
 text-align: center;
 }
-.contactbtn{
+.contactbtnd{
     position: absolute;
 width: 300px;
 height: 30px;
@@ -69,13 +69,13 @@ h3{
     margin-bottom: 15px;
     
 }
-.info p{
+.infod p{
     margin-left: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
     font-size: medium;
 }
-.helps{
+.helpsd{
     position: absolute;
     height: 500px;
     width: 95%;
@@ -83,7 +83,7 @@ h3{
     display: grid;
     grid-template-columns: auto auto auto;
 }
-.helpbox{
+.helpboxd{
    
     height: 200px;
     width: 250px;
@@ -96,13 +96,13 @@ h3{
     
 
 }
-h5.helpbox{
+h5.helpboxd{
     font-size: small;
 }
-.helpbox:hover{
+.helpboxd:hover{
     background-color: #ffd8ad;
 }
-.rememberbox{
+.rememberboxd{
     box-sizing: border-box;
 
 position: absolute;
