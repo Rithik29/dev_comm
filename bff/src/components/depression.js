@@ -6,60 +6,60 @@ import NavbarNew from "../components/Navbarnew";
 const Depression = () => {
     return (
         
-        <div className="page">
+        <div className="paged">
             {/* <Navbar/> */}
             <NavbarNew/>
             
-            <div className="helpline">
+            <div className="helplined">
                 <div className="depressbox">
                     <h1>HELP IS AVAILABLE TALK TO SOMEONE TODAY</h1>
                     <p>Remember, suicide is a permanent solution to a temporary problem. There is help available, and with the right support, you can overcome your struggles and find a brighter future.</p><br></br>
-                    <button className="contactbtn" onClick="window.location.href='https://www.practo.com/delhi/psychiatrist';">CONTACT YOUR NEAREST PROFFESIONAL</button><br></br><br></br><br></br><br></br>
+                    <button className="contactbtnd" onClick="window.location.href='https://www.practo.com/delhi/psychiatrist';">CONTACT YOUR NEAREST PROFFESIONAL</button><br></br><br></br><br></br><br></br>
                     <h3>HELPLINES IN INDIA</h3>
-                    <div className="helps">
-                        <div className="helpbox">
+                    <div className="helpsd">
+                        <div className="helpboxd">
                             <h5 className="headingd" >NIMHANS Psychosocial Support Helpline</h5><br></br>
-                            <p className="info">Open 24/7<br></br><br></br>
+                            <p className="infod">Open 24/7<br></br><br></br>
                             Counselors<br></br><br></br>
                             080-46110007</p><br></br>
                             <a href="https://nimhans.ac.in/" target="_blank">nimhans.ac.in</a>
 
                         </div>
-                        <div className="helpbox">
-                        <h5 className="heading" >NIMHANS Psychosocial Support Helpline</h5><br></br>
-                            <p className="info">Open 24/7<br></br><br></br>
+                        <div className="helpboxd">
+                        <h5 className="headingd" >NIMHANS Psychosocial Support Helpline</h5><br></br>
+                            <p className="infod">Open 24/7<br></br><br></br>
                             Counselors<br></br><br></br>
                             080-46110007</p><br></br>
                             <a href="https://nimhans.ac.in/" target="_blank">nimhans.ac.in</a>
                             
                         </div>
-                        <div className="helpbox">
-                        <h5 className="heading" >NIMHANS Psychosocial Support Helpline</h5><br></br>
-                            <p className="info">Open 24/7<br></br><br></br>
+                        <div className="helpboxd">
+                        <h5 className="headingd" >NIMHANS Psychosocial Support Helpline</h5><br></br>
+                            <p className="infod">Open 24/7<br></br><br></br>
                             Counselors<br></br><br></br>
                             080-46110007</p><br></br>
                             <a href="https://nimhans.ac.in/" target="_blank">nimhans.ac.in</a>
                             
                         </div>
-                        <div className="helpbox">
-                        <h5 className="heading"  >NIMHANS Psychosocial Support Helpline</h5><br></br>
-                            <p className="info">Open 24/7<br></br><br></br>
+                        <div className="helpboxd">
+                        <h5 className="headingd"  >NIMHANS Psychosocial Support Helpline</h5><br></br>
+                            <p className="infod">Open 24/7<br></br><br></br>
                             Counselors<br></br><br></br>
                             080-46110007</p><br></br>
                             <a href="https://nimhans.ac.in/" target="_blank">nimhans.ac.in</a>
                             
                         </div>
-                        <div className="helpbox">
-                        <h5 className="heading" >NIMHANS Psychosocial Support Helpline</h5><br></br>
-                            <p className="info">Open 24/7<br></br><br></br>
+                        <div className="helpboxd">
+                        <h5 className="headingd" >NIMHANS Psychosocial Support Helpline</h5><br></br>
+                            <p className="infod">Open 24/7<br></br><br></br>
                             Counselors<br></br><br></br>
                             080-46110007</p><br></br>
                             <a href="https://nimhans.ac.in/" target="_blank">nimhans.ac.in</a>
                             
                         </div>
-                        <div className="helpbox">
-                        <h5 className="heading" >NIMHANS Psychosocial Support Helpline</h5><br></br>
-                            <p className="info">Open 24/7<br></br><br></br>
+                        <div className="helpboxd">
+                        <h5 className="headingd" >NIMHANS Psychosocial Support Helpline</h5><br></br>
+                            <p className="infod">Open 24/7<br></br><br></br>
                             Counselors<br></br><br></br>
                             080-46110007</p><br></br>
                             <a href="https://nimhans.ac.in/" target="_blank">nimhans.ac.in</a>
@@ -71,8 +71,8 @@ const Depression = () => {
                 </div>
 
             </div>
-            <div className="remember">
-                <div className="rememberbox">
+            <div className="rememberd">
+                <div className="rememberboxd">
                     <br></br><br></br>
                     <h3>REMEMBER</h3>
                     <br></br>
